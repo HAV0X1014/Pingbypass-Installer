@@ -27,5 +27,5 @@ Use the command `tmux` to create a new session, `tmux attach` to attach to a ses
 
 Same credits as the [road warrior](https://github.com/HAV0X1014/Pingbypass-Road-Warrior-Installer) install guide, since this is based on that script.
 
-##Contributing
+## Contributing
 If you are willing to contribute, please note what you changed, what distros you tested on, and keep changes as minimal as possible.
