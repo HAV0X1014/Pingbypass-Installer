@@ -10,13 +10,13 @@ Sandstar Pingbypass can be found at https://discord.gg/5HVsNJrVWM
 
 2. Run `bash pingbypassInstaller.sh`
 
-4. Follow the prompts printed into the console and type your answers to each.
+3. Follow the prompts printed into the console and type your answers to each.
 
-5. Once the script completes, login to your Minecraft account with `./hmc`, and then type `login [email]` and `password [password]`
+4. Once the script completes, login to your Minecraft account with `./hmc`, and then type `login [email]` and `password [password]`
 
-6. Launch the server with `launch [ID of the forge install] -id`.
+5. Launch the server with `launch [ID of the forge install] -id`.
 
-6.1. To relaunch the server should it crash or session expire, type `quit` to quit Minecraft, and use `./hmc` and `launch [ID of the forge install] -id`.
+5.1. To relaunch the server should it crash or session expire, type `quit` to quit Minecraft, and use `./hmc` and `launch [ID of the forge install] -id`.
 
 ## Tips
 Use `tmux` to create a detachable terminal session that wont end when your SSH session ends.
