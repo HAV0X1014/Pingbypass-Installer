@@ -23,10 +23,6 @@ Use `tmux` to create a detachable terminal session that wont end when your SSH s
 
 Use the command `tmux` to create a new session, `tmux attach` to attach to a session, and ctrl+b and then d to detach from an active session. To kill a session if you make one on accident or to end one, use `tmux kill-session`
 
-
-If there is an error on loading 3arthh4ck, try uing your system's package manager to install openjdk-8-jdk. I found that on one of my VMs it crashed using temurin, but launched fine with openjdk.
-
-
 ## Credits
 
 Same credits as the [road warrior](https://github.com/HAV0X1014/Pingbypass-Road-Warrior-Installer) install guide, since this is based on that script.
