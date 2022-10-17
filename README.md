@@ -8,7 +8,7 @@ Sandstar Pingbypass can be found at https://discord.gg/5HVsNJrVWM
 ## Usage
 1. Download and move the script to your VPS/VM's home directory (`~`). This script will not work elsewhere.
 
-1.1 Use the command `wget https://raw.githubusercontent.com/HAV0X1014/Pingbypass-Installer/oracleJDK/pingbypassInstaller.sh` to use the latest version.
+1.1 Use the command `wget https://raw.githubusercontent.com/HAV0X1014/Pingbypass-Installer/main/pingbypassInstaller.sh` to use the latest version.
 
 2. Run `bash pingbypassInstaller.sh`
 
