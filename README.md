@@ -25,6 +25,10 @@ Use `tmux` to create a detachable terminal session that wont end when your SSH s
 
 Use the command `tmux` to create a new session, `tmux attach` to attach to a session, and ctrl+b and then d to detach from an active session. To kill a session if you make one on accident or to end one, use `tmux kill-session`
 
+- A good cheap VPS host for US servers (in Montreal) is Webdock. My affiliate link -> https://webdock.io/en?maff=wdaff--257
+
+- A good chep VPS host for nearly anywhere else is HostHatch. My affiliate link -> https://cloud.hosthatch.com/a/3718
+
 ## Credits
 
 Same credits as the [road warrior](https://github.com/HAV0X1014/Pingbypass-Road-Warrior-Installer) install guide, since this is based on that script.
