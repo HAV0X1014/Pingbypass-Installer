@@ -27,7 +27,7 @@ Use the command `tmux` to create a new session, `tmux attach` to attach to a ses
 
 - A good cheap VPS host for US servers (in Montreal) is Webdock. My affiliate link -> https://webdock.io/en?maff=wdaff--257
 
-- A good chep VPS host for nearly anywhere else is HostHatch. My affiliate link -> https://cloud.hosthatch.com/a/3718
+- A good cheap VPS host for nearly anywhere else is HostHatch. My affiliate link -> https://cloud.hosthatch.com/a/3718
 
 ## Credits
 
